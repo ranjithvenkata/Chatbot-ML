@@ -1,0 +1,19 @@
+I want to pick a book
+pick book
+book
+I want to pick $author book
+I want to pick $subject book
+I want to pick $title book
+I want to pick $title book by $author 
+I want to pick $title book of $subject 
+I want to pick $author book of $title 
+I want to pick $subject book of $title
+I want to pick $subject book of $author
+I want to pick $author book of $subject
+I want to pick $title book by $author of $subject
+I want to pick $title book of $subject by $author
+I want to pick $author book of $title of $subject
+I want to pick $author book of $subject of $title
+I want to pick $subject book by $author of $title
+I want to pick $subject book of $title by $author
+
